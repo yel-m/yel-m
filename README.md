@@ -9,7 +9,7 @@ class Yelim:
 
     def __init__(self):
         self.name = "Jung Ye Lim"
-        self.hobby = ["📚", "✍🏻"]
+        self.hobby = ["📚", "✍🏻", "🎨"]
         self.skill = {
             "code": ["Python", "Java", "Javascript"],
             "tool": ["Django", "Node", "Spring", "MySQL", "ProstgreSQL", "AWS"]

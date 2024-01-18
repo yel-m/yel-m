@@ -12,9 +12,9 @@ class Yelim:
         self.name = "Jung Ye Lim"
         self.hobbies = ["읽고 쓰기 📚, 무엇이든 만들어보기 🎨 에 관심이 많습니다."]
         self.skills = {
-            "back_end": ["Django", "Node.js", "Spring MVC", "Spring Boot"],
+            "back_end": ["Django", "Node.js"],
             "front_end": ["HTML5", "CSS3", "JS(ES6)"],
-            "learning": ["Kotlin", "React"]
+            "learning": [ "Spring MVC", "Spring Boot", "Kotlin", "React"]
         }
 
 

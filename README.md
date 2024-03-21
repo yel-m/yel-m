@@ -14,7 +14,7 @@ class Yelim:
         self.skills = {
             "back_end": ["Django", "Node.js"],
             "front_end": ["HTML5", "CSS3", "JS(ES6)"],
-            "learning": [ "Spring MVC", "Spring Boot", "Kotlin", "React"]
+            "learning": [ "Spring Boot", "Kotlin", "React"]
         }
 
 

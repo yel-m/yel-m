@@ -13,7 +13,6 @@ class Yelim:
         self.hobbies = ["읽고 쓰기 📚, 무엇이든 만들어보기 🎨 에 관심이 많습니다."]
         self.skills = {
             "back_end": ["Django", "Node.js"],
-            "front_end": ["HTML5", "CSS3", "JS(ES6)"],
             "learning": [ "Spring Boot", "Kotlin", "React"]
         }
 

@@ -1,29 +1,20 @@
-<h2>Hi, I'm Ye Lim<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
-🏫 Soongsil University, Software Engineering
+<h2>Hi, I'm Yelim <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"></h2>
 
+Software Engineering @ Soongsil University · Former Backend Intern @ Octaura (U.S.)
+
+<a href="https://yel-m.tistory.com"><img src="https://img.shields.io/badge/Blog-개발과_고양이발-F7931E?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 <br>
-<br>
-  
-  
 
 ```python
 class Yelim:
 
     def __init__(self):
         self.name = "Jung Ye Lim"
-        self.hobbies = ["📚", "📝", "🎨"]
+        self.role = "Backend Developer"
+        self.hobbies = ["📝 journaling", "🎨 drawing"]
 
     def say_hi(self):
-        print("👋")
-        
+        print("👋!")
 ```
-
-
 <br>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/yel-m" width=400/>
-</a>
-
-  

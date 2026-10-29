@@ -2,8 +2,6 @@
 
 Software Engineering @ Soongsil University
 
-<a href="https://yel-m.tistory.com"><img src="https://img.shields.io/badge/Blog-개발과_고양이발-F7931E?style=flat-square&logo=tistory&logoColor=white"/></a>
-
 <br>
 
 ```python
